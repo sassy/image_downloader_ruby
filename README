@@ -1,5 +1,8 @@
 rubyで作ったdownloader
-Yahoo!JapanのAPIを試すために作成
 
-Yahoo!Japanの画像検索を使用しているので、
-Yahoo!Japan のDeveloperIDが必要
+* image_downloader_simple.rb
+- URIを指定すると画像をダウンロードしてくれる
+
+* image_downloader.rb
+- Yahoo!JapanのAPIを試すために作成
+- Yahoo!Japanの画像検索を使用しているので、Yahoo!Japan のDeveloperIDが必要
